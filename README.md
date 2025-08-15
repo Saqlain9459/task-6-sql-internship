@@ -63,8 +63,7 @@ WHERE student_id IN (
 ```
 
 **Result:**
-![Example 1 Result](<img width="218" height="151" alt="image" src="https://github.com/user-attachments/assets/52f22c80-9242-4eae-bd6e-fbaf0e382270" />
-)
+![Example 1 Result](https://github.com/user-attachments/assets/52f22c80-9242-4eae-bd6e-fbaf0e382270 )
 
 ---
 
@@ -81,8 +80,7 @@ WHERE s.marks > (
 ```
 
 **Result:**
-![Example 2 Result](<img width="218" height="155" alt="image" src="https://github.com/user-attachments/assets/9b44f0a7-b64a-42ee-b6cd-2111339c4121" />
-)
+![Example 2 Result](https://github.com/user-attachments/assets/9b44f0a7-b64a-42ee-b6cd-2111339c4121)
 
 ---
 
@@ -100,8 +98,7 @@ AND student_name <> 'Priya';
 ```
 
 **Result:**
-![Example 3 Result](<img width="218" height="79" alt="image" src="https://github.com/user-attachments/assets/d2912835-dd77-4bef-b911-63214fe9f7e4" />
-)
+![Example 3 Result](https://github.com/user-attachments/assets/d2912835-dd77-4bef-b911-63214fe9f7e4)
 
 ---
 
